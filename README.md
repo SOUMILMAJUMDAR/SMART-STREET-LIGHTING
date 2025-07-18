@@ -126,8 +126,8 @@ int irSensors[8] = {5, 6, 7, 8, 9, 10, 11, 12}; // IR sensor pins
 
 ## Author
 
-**Sourashis Das**
-Embedded Systems and IoT Developer
+**Soumil Majumdar**
+
 
 
 
